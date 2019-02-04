@@ -57,7 +57,7 @@ contact: >
 projects:
 - {name: 'Do Binge Watchers order food online? The problem of Program Evaluation', folder: 'proj-1', file: 'projects/Program_Evaluation.html'}
 - {name: 'Solving Lead Generation problem & The Lean Analytics Cycle', folder: 'proj-2', file: 'projects/Lead_Generation.html'}
-#- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Assignment1 Python Basics', folder: 'proj-3', file: 'projects/class1_python_hardway_examples.html'}
 #- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 
